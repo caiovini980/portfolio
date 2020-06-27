@@ -18,13 +18,14 @@
 }
 .jogo-title{
     display: flex;
+    text-decoration: none;
     align-items: center;
     padding-left: 15px;
     width: 250px;
     height: 80px;
     background-color: #F4F4F4;
     color: #2C2C54;
-    font-size: 40px;
+    font-size: 30px;
     font-family: Bahnschrift;
 }
 .jogo-description{
@@ -36,6 +37,14 @@
     font-size: 15px;
     font-family: Bahnschrift;
 }
+.jogo-arrow{
+    margin-top: 15px;
+    background-color: #F4F4F4;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    transform: rotate(90deg);
+}
 .back-hover{
     height: 560px;
     width: 350px;
@@ -43,7 +52,7 @@
     justify-content: center;
     display: flex;
     border-radius: 20px;
-    margin-left: 50px;
+    margin-left: 80px;
 }
 .back-hover:hover{
     background-color: #28B795;

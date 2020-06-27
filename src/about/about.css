@@ -1,0 +1,30 @@
+.about-fundo {
+    background: linear-gradient(0deg, #f4f4f4 72%, #9B5757 55%);
+    height: 100%; 
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    box-shadow: 0px 6px 8px gray;
+}
+
+.about-icon {
+    margin-left: 100px;
+    padding-top: 60px;
+    display: flex;
+    width: fit-content;
+    height: fit-content;
+    margin-right: 480px;
+}
+
+.about-title {
+    color: #f4f4f4;
+    margin-left: 8px;
+    font-family: Bahnschrift;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: fit-content;
+    height: 100px;
+    font-size: 100px;
+    margin-top: 60px;
+}
