@@ -1,0 +1,20 @@
+.github {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.github-back {
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+    background-color: #2C2C54;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    box-shadow: 0px 6px 8px #1A7A63;
+}
+
+
+
