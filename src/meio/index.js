@@ -8,7 +8,7 @@ export default () => {
             img: 'Space.png',
             width: 280,
             height: 220,
-            title: "Lofi Hip-Hop - Brazil",
+            title: "Lofi HipHop Brazil",
             description: "Só as de maior qualidade",  
             link: "https://www.youtube.com/watch?v=P1bZ68U7SsY"
         },

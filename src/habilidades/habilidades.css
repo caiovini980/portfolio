@@ -1,0 +1,70 @@
+.habilidade-name {
+    /*background-color: indianred;*/
+    color: #2C2C54;
+    font-size: 25px;
+    display: flex;
+    height: 20px;
+    width: 250px;
+    align-items: center;
+    justify-content: initial;
+    
+}
+
+.habilidade-bar {
+    display: flex;
+    align-items: center;
+    height: 20px;
+    width: 450px;
+    justify-content: initial;
+    background-color: #E8C8C8;
+    border-radius: 20px;
+}
+
+.habilidade-perc {
+    background-color: #9B5757;
+    height: 20px;
+    border-radius: 20px;
+    display: flex;
+    color: #9B5757;
+    align-items: center;
+    justify-content: center;
+}
+
+.habilidade {
+    align-items: center;
+    flex-direction: row;
+    display: flex;
+    height: 20px;
+    width: 100%;
+    margin-bottom: 18px;
+}
+
+.linguas {
+    padding-top: 10px;
+    align-items: center;
+    display: flex;
+    justify-content: initial;
+    height: 40px;
+    padding-bottom: 23px;
+    font-family: Roboto;
+    color: #2C2C54;
+}
+
+.language {
+    align-items: center;
+    flex-direction: row;
+    display: flex;
+    height: 20px;
+    width: 100%;
+    margin-bottom: 18px;
+}
+
+.language-name{
+    color: #2C2C54;
+    font-size: 25px;
+    display: flex;
+    height: 20px;
+    width: 250px;
+    align-items: center;
+    justify-content: initial;
+}

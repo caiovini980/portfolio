@@ -28,7 +28,7 @@ function App() {
           <div className="caio-text">
             <p>
               <strong>
-                PORTIFÓLIO
+                PORTIFÓLIO 
               </strong>
             </p>
             <p>CAIO VINÍCIUS AGUIAR ALVES, 21</p>
@@ -45,7 +45,7 @@ function App() {
           <Meio/>
         </div>
         <div className="aboutMe">
-          <a href={show} onClick={show} style={{textDecoration: 'none'}}>
+          <a href={show} onClick={show} style={{textDecoration: 'none', cursor: 'pointer'}}>
             <div className="aboutMe-top">
               <div className="aboutMe-icon">
                 <img src={process.env.PUBLIC_URL + '/diary.png'} width={180} height={180} className={"aboutMe-icon"}/>
